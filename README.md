@@ -1,6 +1,6 @@
 # Hi 👋, I'm Immanuel von Neumann
 
-**`a Site Reliability Engineer at cplace`**
+**`Site Reliability Engineer at cplace`**
 
 ## 🔗 Connect with me
 
@@ -33,25 +33,40 @@
 <details>
   <summary>Full List</summary>
   
-  - Ansible
-  - authentik  
-  - Bash
+  ### Programming Languages
+  
   - C#
+  - Python
+  - Typescript (& Javascript)
+  - Java
+  - Bash
+
+  ### Libraries / Frameworks
+  
+  - React
   - Django
-  - Docker
-  - Dotnet
-  - Git
-  - Grafana
-  - Hashicorp Vault
-  - Javascript
+
+  ### Tools / Platform
+  
   - Kubernetes
+  - Docker
   - Linux
+  - Ansible
+  - Git
+  - Helm
+  - authentik  
   - Proxmox Virtual Environment
   - Proxmox Backup Server
-  - Python
-  - Sql
-  - RabbitMQ
-  - React
+  - Grafana
+  - Prometheus
+  - GitHub Actions
+  - Hashicorp Vault
+  
+  ## Databases
+  
+  - MariaDB (SQL)
   - Redis
-  - Typescript
+  - RabbitMQ
+  - ElasticSearch
+  
 </details>
