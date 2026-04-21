@@ -16,5 +16,5 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER: immanuel-von-neumann
-          INPUT_COMMIT_MESSAGE: "refactor(readme): updated README with new badges"
+          COMMIT_MESSAGE: "refactor(readme): updated README with new badges"
           NUMBER_LAST_BADGES: 0
