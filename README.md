@@ -23,6 +23,7 @@
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/80x80/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](https://www.credly.com/badges/de62c4f7-5658-4049-a220-c4f3671faed5)
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/8df4ef8f-f5a6-4c5b-9320-c4b5c8997ef2)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/fb3f0f88-a4df-4827-b93e-746e4f1671fd)
+[![CGOA: Certified GitOps Associate](https://images.credly.com/size/80x80/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png)](https://www.credly.com/badges/10d5bfe9-ea38-4e67-8a46-df73c31184bd)
 [![PCA: Prometheus Certified Associate](https://images.credly.com/size/80x80/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png)](https://www.credly.com/badges/acd61db4-6e47-4e52-a4e2-066c6d687070)
 <!--END_SECTION:badges-->
 
