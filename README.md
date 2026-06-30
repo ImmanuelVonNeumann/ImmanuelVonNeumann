@@ -24,6 +24,7 @@
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/8df4ef8f-f5a6-4c5b-9320-c4b5c8997ef2)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/fb3f0f88-a4df-4827-b93e-746e4f1671fd)
 [![CBA: Certified Backstage Associate](https://images.credly.com/size/80x80/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png)](https://www.credly.com/badges/8d60251d-50a5-4772-9b48-185f645fdc5b)
+[![KCA: Kyverno Certified Associate](https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png)](https://www.credly.com/badges/25f12f12-ceb2-4e3c-89b9-c4c7b7a7558f)
 [![CAPA: Certified Argo Project Associate](https://images.credly.com/size/80x80/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png)](https://www.credly.com/badges/4703d952-1053-4248-b562-be9855acad73)
 [![OTCA: OpenTelemetry Certified Associate](https://images.credly.com/size/80x80/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob)](https://www.credly.com/badges/22596b3d-156c-4120-8b01-03abb851a46a)
 [![CGOA: Certified GitOps Associate](https://images.credly.com/size/80x80/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png)](https://www.credly.com/badges/10d5bfe9-ea38-4e67-8a46-df73c31184bd)
