@@ -23,6 +23,7 @@
 [![LFCS: Linux Foundation Certified Systems Administrator](https://images.credly.com/size/80x80/images/1e6611ca-8afe-4ecc-ad4d-305fba52ee7e/1_LFCS-600x600.png)](https://www.credly.com/badges/de62c4f7-5658-4049-a220-c4f3671faed5)
 [![KCSA: Kubernetes and Cloud Native Security Associate](https://images.credly.com/size/80x80/images/67dd8a95-8876-4051-9cb9-3d97c204f85a/image.png)](https://www.credly.com/badges/8df4ef8f-f5a6-4c5b-9320-c4b5c8997ef2)
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/fb3f0f88-a4df-4827-b93e-746e4f1671fd)
+[![CCA: Cilium Certified Associate](https://images.credly.com/size/80x80/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png)](https://www.credly.com/badges/7649f672-e07c-4245-9c55-10061a915362)
 [![CBA: Certified Backstage Associate](https://images.credly.com/size/80x80/images/d84e4fb0-dc7f-4d79-b1eb-a8a973da4965/image.png)](https://www.credly.com/badges/8d60251d-50a5-4772-9b48-185f645fdc5b)
 [![KCA: Kyverno Certified Associate](https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png)](https://www.credly.com/badges/25f12f12-ceb2-4e3c-89b9-c4c7b7a7558f)
 [![CAPA: Certified Argo Project Associate](https://images.credly.com/size/80x80/images/12624f9e-6b4a-43f0-b7a2-afb2c6cf8059/image.png)](https://www.credly.com/badges/4703d952-1053-4248-b562-be9855acad73)
