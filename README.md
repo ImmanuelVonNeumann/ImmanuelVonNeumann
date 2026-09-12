@@ -38,45 +38,12 @@
 
 ## 💡 My Skills
 
-![My Skills](https://skillicons.dev/icons?i=ansible,bash,cs,django,docker,dotnet,git,grafana,javascript,kubernetes,linux,python,mysql,rabbitmq,react,redis,typescript)
-
-<details>
-  <summary>Full List</summary>
-  
-  ### Programming Languages
-  
-  - C#
-  - Python
-  - Typescript (& Javascript)
-  - Java
-  - Bash
-
-  ### Libraries / Frameworks
-  
-  - React
-  - Django
-
-  ### Tools / Platform
-  
-  - Kubernetes
-  - Docker
-  - Linux
-  - Ansible
-  - Git
-  - Helm
-  - authentik  
-  - Proxmox Virtual Environment
-  - Proxmox Backup Server
-  - Grafana
-  - Prometheus
-  - GitHub Actions
-  - Hashicorp Vault
-  
-  ## Databases
-  
-  - MariaDB (SQL)
-  - Redis
-  - RabbitMQ
-  - ElasticSearch
-  
-</details>
+| Domain | Technologies |
+|---|---|
+| **Cloud** | ![Azure](https://img.shields.io/badge/Azure-232F3E?style=flat&logo=azure&logoColor=FF9900) |
+| **Containerization** | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=black) |
+| **CI/CD** | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white) ![FluxCD](https://img.shields.io/badge/FluxCD-00688B?style=flat&logo=flux&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| **IaC** | ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white) |
+| **Observability** | ![Open Telemetry](https://img.shields.io/badge/Open%20Telemetry-4F62AD?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![OpenCTI](https://img.shields.io/badge/OpenCTI-E6522C?style=flat&logoColor=white) ![ELK](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elasticstack&logoColor=white) |
+| **Languages** | ![C#](https://img.shields.io/badge/C%23-A8B9CC?style=flat&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/Java-D0A384?style=flat&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat&logo=elasticsearch&logoColor=white) |
