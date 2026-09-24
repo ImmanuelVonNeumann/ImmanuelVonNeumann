@@ -30,6 +30,7 @@
 [![CCA: Cilium Certified Associate](https://images.credly.com/size/80x80/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png)](https://www.credly.com/badges/7649f672-e07c-4245-9c55-10061a915362)
 [![CGOA: Certified GitOps Associate](https://images.credly.com/size/80x80/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png)](https://www.credly.com/badges/10d5bfe9-ea38-4e67-8a46-df73c31184bd)
 [![CNPA: Certified Cloud Native Platform Engineering Associate](https://images.credly.com/size/80x80/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob)](https://www.credly.com/badges/7158e4ba-ca58-40fb-915b-6144a2c2499b)
+[![LFCA: Linux Foundation Certified IT Associate](https://images.credly.com/size/80x80/images/a50f0521-4f1f-4f9f-bcb3-2f8ea33c61a2/blob)](https://www.credly.com/badges/b21d781e-0977-4a03-9354-6c9ca58b1786)
 [![ICA: Istio Certified Associate](https://images.credly.com/size/80x80/images/d7d4ddc8-7df8-4c03-9343-507b51e0ef99/image.png)](https://www.credly.com/badges/d3d9e374-fcdc-4351-8e08-b28f07cff166)
 [![KCA: Kyverno Certified Associate](https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png)](https://www.credly.com/badges/25f12f12-ceb2-4e3c-89b9-c4c7b7a7558f)
 [![OTCA: OpenTelemetry Certified Associate](https://images.credly.com/size/80x80/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob)](https://www.credly.com/badges/22596b3d-156c-4120-8b01-03abb851a46a)
