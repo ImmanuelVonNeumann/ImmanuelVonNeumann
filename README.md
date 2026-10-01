@@ -35,6 +35,7 @@
 [![KCA: Kyverno Certified Associate](https://images.credly.com/size/80x80/images/2592935a-d8fa-405d-b40a-711a75454fc2/image.png)](https://www.credly.com/badges/25f12f12-ceb2-4e3c-89b9-c4c7b7a7558f)
 [![OTCA: OpenTelemetry Certified Associate](https://images.credly.com/size/80x80/images/3d3f7131-83a4-4427-8a68-150ca90bcc23/blob)](https://www.credly.com/badges/22596b3d-156c-4120-8b01-03abb851a46a)
 [![PCA: Prometheus Certified Associate](https://images.credly.com/size/80x80/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png)](https://www.credly.com/badges/acd61db4-6e47-4e52-a4e2-066c6d687070)
+[![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/b0baef8b-8ac9-4c4c-b3cd-1d88c9b17245/converted20260930-31-6xm31r.png)](https://www.credly.com/users/immanuel-von-neumann/badges)
 <!--END_SECTION:badges-->
 
 ## 💡 My Skills
