@@ -30,6 +30,7 @@
 [![CCA: Cilium Certified Associate](https://images.credly.com/size/80x80/images/729367b3-0344-4b00-a6da-53e1807f808a/image.png)](https://www.credly.com/badges/7649f672-e07c-4245-9c55-10061a915362)
 [![CGOA: Certified GitOps Associate](https://images.credly.com/size/80x80/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png)](https://www.credly.com/badges/10d5bfe9-ea38-4e67-8a46-df73c31184bd)
 [![CNPA: Certified Cloud Native Platform Engineering Associate](https://images.credly.com/size/80x80/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob)](https://www.credly.com/badges/7158e4ba-ca58-40fb-915b-6144a2c2499b)
+[![SC101: Open Data Formats YAML](https://images.credly.com/size/80x80/images/763a68e3-d4b4-423c-bd5c-fd6685460c5e/image.png)](https://www.credly.com/badges/4ce73f23-1567-4349-bca3-42d6eeb053c3)
 [![SC100: Text Editing with Vim](https://images.credly.com/size/80x80/images/102aa232-41cf-4187-9cda-b0efb0ba63a4/image.png)](https://www.credly.com/badges/71439951-885a-462e-be9a-7791fbd61293)
 [![SC103: Shell Scripting using Bash](https://images.credly.com/size/80x80/images/62ed61bd-120c-487b-8d0f-aea54f414b2b/image.png)](https://www.credly.com/badges/f5b109c4-92da-4c81-863d-1adc78f363fc)
 [![LFCA: Linux Foundation Certified IT Associate](https://images.credly.com/size/80x80/images/a50f0521-4f1f-4f9f-bcb3-2f8ea33c61a2/blob)](https://www.credly.com/badges/b21d781e-0977-4a03-9354-6c9ca58b1786)
